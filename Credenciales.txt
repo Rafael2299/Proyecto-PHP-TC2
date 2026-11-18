@@ -1,0 +1,10 @@
+Administrador
+- Correo: admin@demo.local
+- Contraseña: AdminDemo2026!
+publicador
+- Correo: publicador@demo.local
+- Contraseña: Publicador2026!
+
+http://localhost/clasificados_poo_v2/clasificados.php?seccion=login
+http://localhost/clasificados_poo_v2/clasificados.php
+http://localhost/phpmyadmin
